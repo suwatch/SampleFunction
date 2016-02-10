@@ -1,0 +1,11 @@
+{
+  "bindings": {
+    "input": [
+      {
+        "type": "queueTrigger",
+        "queueName": "samples-workitems"
+      }
+    ],
+    "output": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "bindings": {
+    "input": [
+      {
+        "type": "timerTrigger",
+        "schedule": "0 * * * * *",
+        "runOnStartup": true
+      }
+    ],
+    "output": []
+  }
+}
